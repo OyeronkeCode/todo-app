@@ -3,6 +3,6 @@ import './Header.scss'
 
 export default function Header() {
   return (
-    <h1 className='header'>Todo Items</h1>
+    <h1 className=''>Todo Items</h1>
   )
 }
